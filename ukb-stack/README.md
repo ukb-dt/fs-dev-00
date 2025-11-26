@@ -1,0 +1,5 @@
+- Oracle/SQL
+- Microsoft/Azure
+- Nvidia/CUDA
+- OpenAI/GPT
+- Value/[+3000%](https://ukb-dt.github.io/inv-00/) MarketCap 2020-2025

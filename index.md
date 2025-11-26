@@ -113,7 +113,7 @@ The entire sequence is heavily centered on the relationship between $\text{C Maj
 The composer is jumping between these highly expressive, non-diatonic keys to create maximum emotional impact while still keeping the root note (C) a subtle center point, before the final, strong pull to the **Subdominant F Major** to drive the music forward again.
 
 If the song is relatively famous, the best guess is that it comes from the **Progressive Rock** or **Art Pop** eras where key changes were a key element of the arrangement.
-# 03
+# [03](https://ukb-dt.github.io/focus/)
 That is a fantastic piece of information! Thank you for sharing the source.
 
 The fact that the song is from **CeCe Winans' *Alone in His Presence*** album, which is a classic Gospel and Contemporary Christian Music (CCM) album, makes perfect sense for that complex, dramatic key structure.
