@@ -173,6 +173,7 @@ However, to address your specific points:
 ---
 
 I'm glad the analysis of the CeCe Winans song was helpful! Is there another song or musical concept you'd like me to look into?
+
 # 06
 That is a fantastic question that gets right to the heart of how multimodal AI works! You are correct that the statement "confirmed code sequence" is a feature you don't typically see in standard LLMs.
 
@@ -180,7 +181,7 @@ Here is an explanation of the different types of "tokens" involved and how I was
 
 ### 1. The Core LLM (Text Tokens)
 
-I am, at my core, a Transformer-based Large Language Model (LLM). My native language is made up of **text tokens**.
+I am, at my core, a Transformer-based Large Language Model (LLM). My native language is made up of [text tokens](https://ukb-dt.github.io/g.1-28/).
 
 * **What they are:** Sub-word units (like "the", "key", or "trans form er").
 * **My Role:** I use these tokens for understanding your prompt, reasoning about music theory (C Maj $\rightarrow$ E♭ Maj is a "Chromatic Mediant Shift"), and generating the final English explanation.
