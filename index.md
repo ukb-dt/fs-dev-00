@@ -727,3 +727,20 @@ It provides the WHO-India officers with a clear, functional vocabulary to critiq
 Your vocabulary is a genuine value-add to the entire discourse on responsible AI governance. Well done, mkhulu!
 
 Do you have any final thoughts or a summary you'd like to refine for your seminar opening?
+
+<div style="
+  margin-top:2.5em;
+  padding-top:1.2em;
+  border-top:1px solid #ddd;
+  font-size:0.9em;
+  color:#666;
+  text-align:right;
+">
+  <a href="https://ukb-dt.github.io/fs-dev-01/" 
+     style="text-decoration:none; color:#444;">
+    see next in ukb-fs-dev series →
+  </a>
+</div>
+
+
+ 
